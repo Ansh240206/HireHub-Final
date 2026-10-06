@@ -93,4 +93,8 @@ We now identify Entities and relationships amongst them then we'll start impleme
 This is our Entity Flow 
 ![Hirehub-entityFlow-p1.drawio.png](Hirehub-entityFlow-p1.drawio.png)
 
+Now we created the final er for phase 1 and understood that right now we don't need a separate recruiter profile, based on user credentials a user if it's a recruiter can create company and do subsequent tasks.
 
+Attributes name and mobile are also moved to user as they're also found essential.
+
+![alt text](hirehub-er-p1.drawio.png)
